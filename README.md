@@ -3,3 +3,5 @@
   
 ## Notes: Oct.08, 2021
   - Map
+  - Review JS (JavaScript)
+  - Shiny
